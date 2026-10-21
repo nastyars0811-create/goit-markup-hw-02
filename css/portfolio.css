@@ -28,12 +28,3 @@
   letter-spacing: 0.02em;
   color: #434455;
 }
-
-.portfolio-list li {
-  width: 360px;
-  height: 420px;
-  min-width: 288px;
-  max-width: 360px;
-  min-height: 360px;
-  max-height: 420px;
-}

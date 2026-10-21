@@ -26,6 +26,11 @@
   text-decoration: none;
 }
 
+.menu-link:hover,
+.menu-link:focus {
+  color: #404bbf;
+}
+
 .contact-link {
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
@@ -34,4 +39,10 @@
   letter-spacing: 0.02em;
   color: #434455;
   text-decoration: none;
+  font-style: normal;
+}
+
+.contact-link:hover,
+.contact-link:focus {
+  color: #404bbf;
 }

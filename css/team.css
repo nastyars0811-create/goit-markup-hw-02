@@ -33,20 +33,15 @@
 }
 
 .team-list {
-  display: flex;
-  gap: 24px;
+  width: 264px;
+  height: 380px;
   list-style: none;
   padding: 0;
   margin: 0;
 }
 
 .team-list li {
-  border-radius: 0 0 4px 4px;
   width: 264px;
   height: 380px;
-  box-shadow:
-    0 2px 1px 0 rgba(46, 47, 66, 0.08),
-    0 1px 1px 0 rgba(46, 47, 66, 0.16),
-    0 1px 6px 0 rgba(46, 47, 66, 0.08);
   background: #fff;
 }
