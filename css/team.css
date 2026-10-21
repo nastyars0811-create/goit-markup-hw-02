@@ -33,15 +33,11 @@
 }
 
 .team-list {
-  width: 264px;
-  height: 380px;
   list-style: none;
   padding: 0;
   margin: 0;
 }
 
 .team-list li {
-  width: 264px;
-  height: 380px;
   background: #fff;
 }
